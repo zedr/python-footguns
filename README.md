@@ -1,6 +1,6 @@
 # python-footguns
 
-A curated collection of guns that I've incautiously discharged.
+A collection of guns that I've incautiously discharged.
 
 - implicit relative imports
 - mutable default keyword arguments
