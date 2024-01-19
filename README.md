@@ -11,4 +11,5 @@ A collection of guns that I've incautiously discharged.
 - `pathlib.Path` is not JSON serializable
 - `collections.defaultdict` doesn't quack like a duck
 - string interpolation may had side effects
+- global < classes < nonlocal
 - ...more TBD
