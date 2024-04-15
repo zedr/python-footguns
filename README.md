@@ -12,4 +12,5 @@ A collection of guns that I've incautiously discharged.
 - `collections.defaultdict` doesn't quack like a duck
 - string interpolation may had side effects
 - global < classes < nonlocal
+- `assert` is AFK
 - ...more TBD
