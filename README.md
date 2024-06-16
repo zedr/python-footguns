@@ -13,4 +13,5 @@ A collection of guns that I've incautiously discharged.
 - string interpolation may had side effects
 - global < classes < nonlocal
 - `assert` is AFK
+- `[{}] * 3` not the same as [{} for i in range(3)]
 - ...more TBD
