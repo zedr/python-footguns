@@ -14,4 +14,5 @@ A collection of guns that I've incautiously discharged.
 - global < classes < nonlocal
 - `assert` is AFK
 - `[{}] * 3` not the same as `[{} for i in range(3)]`
+- wide try excepts
 - ...more TBD
